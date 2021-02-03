@@ -2,9 +2,9 @@
 Uses dress attributes and sales to recommend dresses.
 
 
-This notebook makes use of various techniques including:
+This notebook makes demonstrates use of various data science procedures/techniques including:
 - Feature engineering
 - Principal Component Analysis
 - XGBoost 
 - AdaBoost
-- Voting Classifiers
+- Supervised learning
